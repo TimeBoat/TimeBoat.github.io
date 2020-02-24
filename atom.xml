@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://timeboat.github.io/</id>
+    <title>测试</title>
+    <updated>2020-02-24T13:19:32.137Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://timeboat.github.io/"/>
+    <link rel="self" href="https://timeboat.github.io/atom.xml"/>
+    <subtitle>测试</subtitle>
+    <logo>https://timeboat.github.io/images/avatar.png</logo>
+    <icon>https://timeboat.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, 测试</rights>
+</feed>
